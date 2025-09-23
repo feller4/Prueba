@@ -1,13 +1,10 @@
-# Proyecto de Prueba
-
-Este es un repositorio de ejemplo para practicar **Markdown** en GitHub.  
-Aquí probamos cabeceras, listas, tablas y hasta un gráfico.
+# Prueba
+Markdown es un lenguaje de marcado ligero que permite escribir texto con formato de manera sencilla, usando caracteres normales en lugar de menús complicados.
 
 ---
 
 ## 1. Cabeceras
 ### Cabecera de tercer nivel
-Puedes usar `#`, `##`, `###` para distintos tamaños de título.
 
 ---
 
@@ -15,29 +12,24 @@ Puedes usar `#`, `##`, `###` para distintos tamaños de título.
 - Texto en **negrita**
 - Texto en *cursiva*
 - Texto con ~~tachado~~
-- Enlace a [GitHub](https://github.com)
+- Enlace a [youtube](https://www.youtube.com/watch?v=TufBDEhRXmg&list=RDtrfczdyZv1s&index=2)
 
 ---
 
 ## 3. Lista
 ### Lista ordenada
-1. Primer paso  
-2. Segundo paso  
-3. Tercer paso  
+1. Primero
+2. Segundo
+3. Tercero
 
 ### Lista no ordenada
-- Elemento A  
-- Elemento B  
-- Elemento C  
+- A  
+- B  
+- C  
 
 ---
 
 ## 4. Gráfico
-Podemos insertar un gráfico como imagen (por ejemplo, un gráfico de barras):
-
-![Gráfico de ejemplo]([https://raw.githubusercontent.com/plotly/datasets/master/images/bar_chart.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jaspersoft.com%2Fes%2Farticles%2Fwhat-is-a-pie-chart&psig=AOvVaw1N-2Wz6QL8i6tIUHG9VSSK&ust=1758716910620000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCeqpfx7o8DFQAAAAAdAAAAABAE))
-
-*(En un proyecto real, podrías generar tu propio gráfico en Python y subirlo al repo.)*
 
 ---
 
