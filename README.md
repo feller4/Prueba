@@ -30,7 +30,7 @@ Markdown es un lenguaje de marcado ligero que permite escribir texto con formato
 ---
 
 ## 4. Gráfico
-
+![gráfico](grafico.png)
 ---
 
 ## 5. Tabla
